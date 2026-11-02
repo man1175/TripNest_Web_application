@@ -41,10 +41,10 @@ const listingSchema = new Schema({
         type: String,
         enum: [
              "Rooms", 
-            "Iconic Villas", "Mountains", 
-            "Castles", "Beaches", 
-            "Camping", "Farms", "Motels", 
-            "Apartments",
+            "Iconic Villa","Resort", "Mountains", 
+            "Castle", "Beach", 
+            "Campsite", "Farm", "Motel", 
+            "Apartment",
         ]
     }
 
