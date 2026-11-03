@@ -48,6 +48,9 @@ TripNest is an Airbnb-inspired accommodation listing web application. Users can 
 ### 9. Signup Page (SignUp Page)
 ![Signup Page](screenshots/SignUpPage.png)
 
+### 10. System Architecture 
+![Signup Page](screenshots/TripNestSystemArchitecture.png)
+
 ## Tech Stack
 
 | Area | Technology |
